@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: Roboto;
+    margin: 0;
+}
+.header, .nav, .footer{
+    background-color: #1F2937;
+}
+h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+p, li {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+.summary, button {
+    background-color: #3882f6;
+}
+h2 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bold;
+}
+.quote {
+    background-color: #e5e7eb;
+}
+.quote .text {
+    font-style:italic;
+    font-size: 36px;
+    font-weight: light;
+    color: #1f2937;
+}
